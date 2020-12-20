@@ -2,9 +2,9 @@
 
 Download https://tinyurl.com/ycobkln9
 
-Parse Step5 Programming Extended Documentation Output from Text File and Generates Html Document with  Links, Click References to next Elements and Mouseover to view all Referenced Networks to Scroll easy Documents.
+Parse Step5 Programming Standard Documentation Output from Text File and Generates Html Document with  Links, Click References to next Elements and Mouseover to view all Referenced Networks to Scroll easy Documents.
 
-Liest eine von Step5 generierte "erweiterte Dokumentation" als Textdatei ein und fügt Referenzen zum nächsten Vorkommen als Link hinzu.
+Liest eine von Step5 generierte "Standard Dokumentation" (nicht erweitert) als Textdatei ein und fügt Referenzen zum nächsten Vorkommen als Link hinzu.
 
 Mouseover über zum Beispiel "E0.0" listet alle Netzwerke und Bausteine auf in denen E0.0 vorkommt, ein Klick auf E0.0 springt zum nächsten Vorkommen von E0.0.
 
